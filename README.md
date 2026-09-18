@@ -252,7 +252,7 @@ LunarLander-DQN/
 Clone the repository:
 
 ```bash
-git clone https://github.com/utkarshsingh171/lunar_landing_reinforcement
+git clone https://github.com/utkarshsingh171/lunar_landing_reinforcement.git
 ```
 
 Install dependencies:
